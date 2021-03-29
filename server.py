@@ -1,7 +1,7 @@
 from flask import Flask
 
 PORT = 8000
-MESSAGE = "Final Project output"
+MESSAGE = "Final Project Output"
 
 app = Flask(__name__)
 
